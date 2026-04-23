@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "key": "hero_title",
+      "label": "Hero Title",
+      "type": "text",
+      "placeholder": "Enter main title...",
+      "required": true
+    },
+    {
+      "key": "hero_subtitle",
+      "label": "Hero Subtitle",
+      "type": "textarea",
+      "placeholder": "Enter subtitle content..."
+    },
+    {
+      "key": "cta_text",
+      "label": "Call to Action",
+      "type": "text",
+      "placeholder": "Button text"
+    }
+  ]
+}
