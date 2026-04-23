@@ -27,7 +27,7 @@
     },
     {
       "key": "show_banner",
-      "type": "checkbox"
+      "type": "toggle"
     },
     {
       "key": "active_features",
