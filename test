@@ -28,6 +28,15 @@
     {
       "key": "show_banner",
       "type": "checkbox"
+    },
+    {
+      "key": "active_features",
+      "type": "checkbox",
+      "options": [
+        { "value": "analytics" },
+        { "value": "chat" },
+        { "value": "notifications" }
+      ]
     }
   ]
 }
